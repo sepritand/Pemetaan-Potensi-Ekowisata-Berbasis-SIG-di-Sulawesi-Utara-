@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nama": "Bukit Kasih Kanonang",
+    "lokasi": "Kanonang Empat, Kecamatan Kawangkoan, Kabupaten Minahasa, Sulawesi Utara",
+    "latitude": 1.1653048,
+    "longitude": 124.7659903,
+    "potensi": ["Terletak di kaki Gunung Soputan, Bukit Kasih menawarkan panorama alam yang menakjubkan dengan udara yang sejuk dan segar. Pengunjung dapat menikmati pemandangan perbukitan hijau dan suasana yang tenang, menjadikannya tempat yang ideal untuk relaksasi dan rekreasi. "],
+    "gambar": "BukitKasih.jpg",
+    "pengelola": "Pemerintah Setempat",
+    "gmaps": "https://maps.app.goo.gl/rKKKDARhJAREDu8Q7"
+  },
+  {
+    "id": 2,
+    "nama": "Air Terjun Tunan Talawaan",
+    "lokasi": "Wasian, Kecamatan Dimembe, Minahasa Utara, Sulawesi Utara",
+    "latitude": 1.568266,
+    "longitude": 124.9728939,
+    "potensi": ["Dikelilingi oleh hutan alami, air terjun ini menawarkan panorama alam yang masih terjaga keasriannya. Di bawah air terjun terdapat kolam alami yang memungkinkan pengunjung untuk berenang atau sekadar bermain air. Keindahan air terjun dan sekitarnya menjadikannya lokasi yang ideal untuk fotografi alam."],
+    "gambar": "Talawaan.jpeg",
+    "pengelola": "Pemerintah Setempat",
+    "gmaps": "https://maps.app.goo.gl/FvQtq4TJ1FmVPJHK6"
+  },
+  {
+    "id": 3,
+    "nama": "Pantai Batu Pinagut",
+    "lokasi": "Kuala, Kecamatan Kaidipang, Bolaang Mongondow Utara, Sulawesi Utara",
+    "latitude": 0.9202839,
+    "longitude": 123.2694366,
+    "potensi": ["Pantai ini menawarkan panorama alam yang menakjubkan dengan kombinasi pasir putih, air laut biru jernih, dan bebatuan alami. Keindahan ini menjadikannya tempat yang ideal untuk relaksasi dan menikmati suasana pantai yang tenang. Perairan di sekitar Pantai Batu Pinagut cocok untuk berbagai aktivitas bahari seperti berenang, snorkeling, dan menyelam. Keanekaragaman hayati bawah laut yang kaya memberikan pengalaman menarik bagi para penggemar aktivitas tersebut. ​"],
+    "gambar": "PantaiBatuPinagut.png",
+    "pengelola": "Pemerintah Daerah Kabupaten Bolaang Mongondow Utara",
+    "gmaps": "https://maps.app.goo.gl/8vPxpSrQXvnVSWqx6"
+  },
+  {
+    "id": 4,
+    "nama": "Danau Linow",
+    "lokasi": "Lahendong, Kecamatan Tomohon Selatan, Kota Tomohon, Sulawesi Utara",
+    "latitude": 1.2708329,
+    "longitude": 124.8263892,
+    "potensi": ["Sebagai danau vulkanik dengan kandungan belerang tinggi, Danau Linow menawarkan fenomena alam berupa perubahan warna air yang menarik bagi wisatawan dan peneliti geologi. Kawasan sekitar danau menjadi habitat bagi berbagai spesies burung, seperti belibis, serta serangga endemik yang dikenal sebagai sayok atau komo. Keberadaan flora dan fauna ini menambah daya tarik bagi penggemar ekowisata dan fotografi alam. Dikelilingi perbukitan hijau dan dekat dengan Gunung Lokon yang aktif, Danau Linow menawarkan panorama alam yang memukau, cocok untuk kegiatan fotografi, piknik, dan relaksasi."],
+    "gambar": "danaulinow.webp",
+    "pengelola": "Pemerintah Kota Tomohon dan PT Karyadeka Alam Asri",
+    "gmaps": "https://maps.app.goo.gl/M7VJYLBMBQueXWGV6"
+  },
+  {
+    "id": 5,
+    "nama": "Pulau Mahoro",
+    "lokasi": "Tapile, Kecamatan Siau Timur Selatan, Kabupaten Sitaro, Sulawesi Utara",
+    "latitude": 2.6497832,
+    "longitude": 125.4864136,
+    "potensi": ["Pulau ini menawarkan pantai berpasir putih yang bersih dan perairan laut yang jernih, menjadikannya tempat ideal untuk berenang, snorkeling, dan menyelam.  Perairan sekitar Pulau Mahoro kaya akan terumbu karang dan biota laut, menawarkan pengalaman menyelam yang memukau bagi para penyelam. "],
+    "gambar": "PulauMahoro.webp",
+    "pengelola": "-",
+    "gmaps": "https://maps.app.goo.gl/UYEntAnw549g4PWy5"
+  },
+  {
+    "id": 6,
+    "nama": "Pulau Ponteng",
+    "lokasi": "Rinondoran, Kecamatan Likupang, Kabupaten Minahasa Utara, Sulawesi Utara",
+    "latitude": 1.603397,
+    "longitude": 125.1642182,
+    "potensi": ["Pulau ini memiliki pantai berpasir putih yang bersih dan perairan laut yang jernih, cocok untuk kegiatan berenang, snorkeling, dan menyelam.  Perairan sekitar Pulau Ponteng kaya akan terumbu karang dan biota laut, menjadikannya lokasi ideal bagi para penyelam untuk mengeksplorasi kehidupan bawah laut. Bukit kecil di tengah pulau menawarkan pemandangan panorama yang menakjubkan, memberikan kesempatan bagi wisatawan untuk menikmati keindahan alam dari ketinggian."],
+    "gambar": "PulauPonteng.jpg",
+    "pengelola": "-",
+    "gmaps": "https://maps.app.goo.gl/CV5saHiKY3XCyzvC8"
+  },
+  {
+    "id": 7,
+    "nama": "Pulau Siladen",
+    "lokasi": "Bunaken, Kecamatan Bunaken Kepulauan, Kota Manado, Sulawesi Utara",
+    "latitude": 1.6317853,
+    "longitude": 124.8025457,
+    "potensi": ["Pulau ini dikelilingi oleh pantai berpasir putih yang bersih dan alami, menjadikannya tempat ideal untuk berjemur, berenang, dan menikmati pemandangan laut. Perairan sekitar Pulau Siladen kaya akan terumbu karang dan biota laut yang beragam, menjadikannya lokasi favorit bagi para penyelam dan pecinta snorkeling. Spot diving seperti Siladen 1 dan Siladen 2 menawarkan pemandangan bawah laut yang menakjubkan. "],
+    "gambar": "PulauSiladen.jpeg",
+    "pengelola": "Kementerian Lingkungan Hidup dan Kehutanan",
+    "gmaps": "https://maps.app.goo.gl/hmYnvoHtUK94Jp5J9"
+  },
+  {
+    "id": 8,
+    "nama": "Air Terjun Kima Atas",
+    "lokasi": "Kima Atas, Kecamatan Mapanget, Kota Manado, Sulawesi Utara",
+    "latitude": 1.5567483,
+    "longitude": 124.8970479,
+    "potensi": ["Air terjun ini memiliki tiga tingkatan dengan ketinggian sekitar 8 meter, menciptakan panorama yang menyejukkan mata. Dikelilingi oleh pepohonan hijau yang rimbun, suasana di sekitar air terjun terasa sejuk dan segar. Di bawah air terjun terdapat kolam alami yang terbentuk dari aliran air, memungkinkan pengunjung untuk berenang atau sekadar bermain air. Arus air yang tidak terlalu deras menjadikan aktivitas ini relatif aman bagi berbagai kalangan. Bentuk air terjun yang berundak dan lingkungan alam sekitarnya menyediakan latar belakang yang menarik bagi para penggemar fotografi. Pengunjung dapat mengabadikan momen dengan latar belakang air terjun yang eksotis. Bagi pecinta petualangan, area sekitar air terjun menawarkan jalur trekking ringan yang memungkinkan eksplorasi keanekaragaman flora dan fauna lokal. Namun, disarankan untuk tetap berhati-hati dan tidak menjelajah terlalu jauh tanpa pemandu."],
+    "gambar": "AirTerjunKimaAtas.jpg",
+    "pengelola": "Pemerintah Setempat",
+    "gmaps": "https://maps.app.goo.gl/4TMFh5PDJ3Ee7aHc9"
+  },
+  {
+    "id": 9,
+    "nama": "Pantai Batu Angus",
+    "lokasi": "Kasawari, Aertembaga, Kota Bitung, Sulawesi Utara",
+    "latitude": 1.51068,
+    "longitude": 125.245217,
+    "potensi": ["Pantai ini dikenal dengan hamparan batuan hitam legam yang merupakan hasil dari aliran lava Gunung Batu Angus pada abad ke-19. Formasi batuan ini menciptakan pemandangan yang unik dan menjadi daya tarik utama bagi wisatawan. Keunikan formasi batuan dan panorama alam sekitar menjadikan pantai ini lokasi yang ideal untuk fotografi lanskap. Pantai Batu Angus menyediakan berbagai aktivitas seperti trekking melintasi padang ilalang, snorkeling, dan diving untuk menikmati keindahan bawah laut yang kaya akan terumbu karang dan biota laut."],
+    "gambar": "PantaiBatuAngus.webp",
+    "pengelola": "Balai Konservasi Sumber Daya Alam (BKSDA) Sulawesi Utara",
+    "gmaps": "https://maps.app.goo.gl/mH2cCBTSAyqUFYey8"
+  },
+  {
+    "id": 10,
+    "nama": "Air Terjun Kali",
+    "lokasi": "Tinoor Satu, Kecamatan Tomohon Utara, Kota Tomohon, Sulawesi Utara",
+    "latitude": 1.3802154,
+    "longitude": 124.8360438,
+    "potensi": ["Air terjun ini memiliki ketinggian sekitar 10-15 meter dengan air yang jernih mengalir dari sungai di sekitarnya. Dikelilingi oleh pepohonan hijau, menciptakan suasana sejuk dan menenangkan bagi pengunjung. Perjalanan menuju air terjun melibatkan trekking melalui jalur setapak dan tangga, memberikan pengalaman petualangan bagi para wisatawan. Namun, perlu diperhatikan bahwa jalur tersebut dapat licin, sehingga kehati-hatian dan persiapan fisik yang memadai diperlukan."],
+    "gambar": "terjunkali.jpg",
+    "pengelola": "-",
+    "gmaps": "https://maps.app.goo.gl/eVvSFAxZSpf2AWFP9"
+  }
+]
